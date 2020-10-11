@@ -1,6 +1,6 @@
 # Mail Merge
 
-###### This is a simple code to send personalised emails to people using SMTP in Python. There are some add-ons available on Gmail but most of them are paid. I have created my own mail merge for ease of use. Putting it on gitHub so that others can use this too. 
+###### This is a simple code to send personalised emails to people using SMTP in Python. There are some add-ons available on Gmail but most of them are paid. I have created my own mail merge for ease of use. 
 
 Before using this, pease make sure: 
 1. Email ID and Password for the email through which you want to send the emails are in a file called `credentials` separated by a new line character. 
